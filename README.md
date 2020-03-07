@@ -19,18 +19,18 @@ Data columns (total 16 columns):
 
 ![Capture.PNG](https://github.com/brsylcn/ETL_project_group2/blob/master/Capture.PNG)
 
--We are going to drop columns 10-15 from video game sales since the other files do not contain matching columns.
+- We are going to drop columns 10-15 from video game sales since the other files do not contain matching columns.
 
--We are going to create self-referencing columns for platform in both the Xbox and PS4.
+- We are going to create self-referencing columns for platform in both the Xbox and PS4.
 
-This will leave us with 10 columns in each dataframe.
+- This will leave us with 10 columns in each dataframe.
 
-We then merged the 3 into one. 
+- We then merged the 3 into one. 
 
-We drop duplicates.
+- We drop duplicates.
 
-We dropped NaN.
+- We dropped NaN.
 
-That left us with XXXXX rows of data.
+- That left us with XXXXX rows of data.
 
-We then started breaking the data down into the various normal forms
+- We then started breaking the data down into the various normal forms

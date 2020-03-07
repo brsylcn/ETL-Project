@@ -17,13 +17,5 @@ The columns/data broke down as follows
 RangeIndex: 16719 entries, 0 to 16718
 Data columns (total 16 columns):
 
-    Column           Non-Null Count  Dtype 
-    ------           --------------  -----
- 0   Name             16717 non-null  object 
- --------------------------------------------
- 1   Platform         16719 non-null  object 
- --------------------------------------------
- 2   Year_of_Release  16450 non-null  float64
- 3   Genre            16717 non-null  object 
- 4   Publisher        16665 non-null  object 
- 5   NA_Sales         16719 non-null  float64
+![Capture.PNG](link-to-image)
+

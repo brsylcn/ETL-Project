@@ -26,3 +26,11 @@ We are going to create self-referencing columns for platform in both the Xbox an
 This will leave us with 10 columns in each dataframe.
 
 We then merged the 3 into one. 
+
+We drop duplicates.
+
+We dropped NaN.
+
+That left us with XXXXX rows of data.
+
+We then started breaking the data down into the various normal forms

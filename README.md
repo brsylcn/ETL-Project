@@ -16,3 +16,6 @@ The columns/data broke down as follows
 
 RangeIndex: 16719 entries, 0 to 16718
 Data columns (total 16 columns):
+
+    Column           Non-Null Count  Dtype 
+    ------           --------------  -----

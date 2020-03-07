@@ -17,5 +17,5 @@ The columns/data broke down as follows
 RangeIndex: 16719 entries, 0 to 16718
 Data columns (total 16 columns):
 
-![Capture.PNG](link-to-image)
+![Capture.PNG](https://github.com/brsylcn/ETL_project_group2/blob/master/Capture.PNG)
 

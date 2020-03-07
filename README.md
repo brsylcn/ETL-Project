@@ -34,3 +34,5 @@ Data columns (total 16 columns):
 - That left us with XXXXX rows of data.
 
 - We then started breaking the data down into the various normal forms
+
+***Refer to the technical report repository for instruction!***

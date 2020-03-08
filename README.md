@@ -31,7 +31,7 @@ Data columns (total 16 columns):
 
 - We dropped NaN.
 
-- That left us with XXXXX rows of data.
+- That left us with 17702 rows of data.
 
 - We then started breaking the data down into the various normal forms
 
